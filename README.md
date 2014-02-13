@@ -69,10 +69,11 @@ Bachelor of Science, Electrical Engineering Technology, May 2002
 
 Graduate Teaching Assistantship in the School of Technology instructing undergraduate classes through lab exercises. 
 
-Courses taught include: 
-ECET 325 - Computer Architecture Performance Analysis: Lab Instructor, developed all laboratory projects and material.
-ECET 374 - Digital Telecommunications: Lab Instructor, developed all major laboratory projects.
-ECET 304 - Introduction to Communication Systems: Lab Instructor, assisted in the redevelopment of laboratory projects.
-ECET 297 - Electronic System Design and Fabrication: Lab Instructor.
-ECET 207 - AC Circuit Analysis: Lab Instructor.
+Courses instructed: 
+
+* ECET 325 - Computer Architecture Performance Analysis: Lab Instructor, developed all laboratory projects and material.
+* ECET 374 - Digital Telecommunications: Lab Instructor, developed all major laboratory projects.
+* ECET 304 - Introduction to Communication Systems: Lab Instructor, assisted in the redevelopment of laboratory projects.
+* ECET 297 - Electronic System Design and Fabrication: Lab Instructor.
+* ECET 207 - AC Circuit Analysis: Lab Instructor.
 
