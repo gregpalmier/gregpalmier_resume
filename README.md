@@ -2,17 +2,18 @@
 
 ##### Systems Administrator
 
-Multi-disciplined systems administrator with experience in design, procurement and integration of products. 
+Multi-disciplined systems administrator with experience in design, procurement and integration of products.
 
 ### SKILLS
 
-* Linux
+* Linux System Administration
 * Cloud Hosting Services (Rackspace, Amazon Web Services)
 * Configuration Management (Chef)
-* LAMP Stack Services
+* LAMP/LEMP Stack Services
 * Monitoring (Cacti, Nagios)
 * Source Code Management
 * Virtualization Tools (Vagrant, VMWare)
+* Scripting (PHP, Ruby, Bash)
 
 ### EXPERIENCE
 
@@ -22,14 +23,16 @@ Systems Administrator – December 2011 to Present
 
 Systems Administrator for a web development agency creating and supporting Drupal CMS based applications.  These responsibilities include:
 
-* Manage Colocation and Cloud based resources. 
+* Manage Colocation and Cloud based resources.
 * Administer Git/Vagrant/Chef based development process.
-* Implement Chef based automated infrastructure.
+* Chef Cookbook Continuous Integration with TravisCI.
+* Implement Chef-based automated infrastructure.
+* Automated monitoring using Nagios and NewRelic.
 * Migrating and consolidation of company resources.
 * Responsible for web application deployment.
 * Perform web application and server diagnostics.
 * Program automatic server configuration and monitoring.
- 
+
 ##### The Jellyvision Lab, Inc., Chicago, Illinois
 
 Production Engineer – August 2010 to October 2011
@@ -65,7 +68,7 @@ Master of Science, Electrical and Computer Engineering Technology, May 2005
 
 Bachelor of Science, Electrical Engineering Technology, May 2002
 
-##### Academic Related Work Experience 
+##### Academic Related Work Experience
 
 Graduate Teaching Assistantship in the School of Technology instructing undergraduate classes through lab exercises. 
 
