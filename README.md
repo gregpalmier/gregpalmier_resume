@@ -1,4 +1,4 @@
-###Gregory Michael Palmier
+### Gregory Michael Palmier
 
 ##### Systems Administrator
 
@@ -7,19 +7,36 @@ Multi-disciplined systems administrator with experience in design, procurement a
 ### SKILLS
 
 * Linux System Administration
-* Cloud Hosting Services (Rackspace, Amazon Web Services)
+* Cloud Hosting Services (Amazon Web Services, Rackspace)
 * Configuration Management (Chef)
 * LAMP/LEMP Stack Services
-* Monitoring (Cacti, Nagios)
+* Monitoring
 * Source Code Management
+* Infrastructure Management Tools (Terraform, Packer)
 * Virtualization Tools (Vagrant, VMWare)
-* Scripting (PHP, Ruby, Bash)
+* Scripting (Ruby, Bash)
 
 ### EXPERIENCE
 
+##### Raise, Inc., Chicago, Illinois
+
+Operations Engineer – December 2014 to Present
+
+Operations Engineer for an Online Retail Giftcards Marketplace managing multiple Ruby applications.
+
+* Created immutable turn-key app deployments with Jenkins and Chef
+* Codified full-stack sandboxed dev environments
+* Migrated all public Heroku apps to AWS using Chef
+* Implemented automated Nagios and Pagerduty integrations
+* Automated OS patches, nightly builds
+* Wrote Elastic Services deployment
+* Mitigated threats with SecOps
+* Managed deployments to reserved instances contract, saving 50% AWS costs
+* Moved Classic EC2 Resources to VPC
+
 ##### Promet Solutions, Inc., Chicago, Illinois
 
-Systems Administrator – December 2011 to Present
+Systems Administrator – December 2011 to November 2014
 
 Systems Administrator for a web development agency creating and supporting Drupal CMS based applications.  These responsibilities include:
 
