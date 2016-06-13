@@ -1,4 +1,5 @@
 ### Gregory Michael Palmier
+[https://github.com/gregpalmier](https://github.com/gregpalmier)
 
 ##### Systems Administrator
 
@@ -27,6 +28,7 @@ Operations Engineer for an Online Retail Giftcards Marketplace managing multiple
 * Created immutable turn-key app deployments with Jenkins and Chef
 * Codified full-stack sandboxed dev environments
 * Migrated all public Heroku apps to AWS using Chef
+* Deployed Cloudflare as a WAF and CDN
 * Implemented automated Nagios and Pagerduty integrations
 * Automated OS patches, nightly builds
 * Wrote Elastic Services deployment
