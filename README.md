@@ -11,7 +11,7 @@ Multi-disciplined systems administrator with experience in design, procurement a
 * Cloud Hosting Services (Amazon Web Services, Rackspace)
 * Configuration Management (Chef)
 * LAMP/LEMP Stack Services
-* Monitoring
+* Monitoring (Nagios, Pagerduty, Datadog)
 * Source Code Management
 * Infrastructure Management Tools (Terraform, Packer)
 * Virtualization Tools (Vagrant, VMWare)
@@ -27,13 +27,16 @@ Operations Engineer for an Online Retail Giftcards Marketplace managing multiple
 
 * Created immutable turn-key app deployments with Jenkins and Chef
 * Codified full-stack sandboxed dev environments
+* Moved third-party provider testing to internal Jenkins suite, increasing test reliability
 * Migrated all public Heroku apps to AWS using Chef
 * Deployed Cloudflare as a WAF and CDN
-* Implemented automated Nagios and Pagerduty integrations
-* Automated OS patches, nightly builds
+* Automated Nagios, Datadog, and Pagerduty integrations with Chef
+* Automated OS patches and security updates through automatic nightly builds
 * Wrote Elastic Services deployment
-* Mitigated threats with SecOps
-* Managed deployments to reserved instances contract, saving 50% AWS costs
+* Mitigated threats and vulnerabilities through pen-testing with SecOps
+* Managed security scanning software with Chef
+* Standardized deployments to reserved instances contract, saving 40% AWS costs
+* Migrated third-party SaaS solutions to AWS Services
 * Moved Classic EC2 Resources to VPC
 
 ##### Promet Solutions, Inc., Chicago, Illinois
@@ -71,19 +74,19 @@ Electronics Engineer – September 2005 to July 2010
 
 Test Design Engineer for the Automatic Test Engineering Department.
 
-* Wrote and verified test software solutions for aircraft computer hardware automatic test stations.  
+* Wrote test software solutions for aircraft computer hardware automatic test stations.
 * Integrated and maintained test station hardware improvements.
-* Analyzed deficiency reports from customers to determine cause of, and implement solutions to resolve failures.
-* Procured and integrated of new B-52 IDATS test stations for the United States Air Force.
+* Analyzed deficiency reports from customers to determine cause of, and implement solutions for failures.
+* Procured and tested new B-52 IDATS test stations for the United States Air Force.
 * Integration of maintenance procedures for AN/ALQ-135 RF Countermeasure Suite.
 * Designed B-52 Controller Encoder circuit card.
 * Designed APR-39 RWR System test station.
 
 ### Education
 
-Purdue University, School of Technology, West Lafayette, Indiana 
+Purdue University, School of Technology, West Lafayette, Indiana
 
-Master of Science, Electrical and Computer Engineering Technology, May 2005 
+Master of Science, Electrical and Computer Engineering Technology, May 2005
 
 Bachelor of Science, Electrical Engineering Technology, May 2002
 
@@ -91,7 +94,7 @@ Bachelor of Science, Electrical Engineering Technology, May 2002
 
 Graduate Teaching Assistantship in the School of Technology instructing undergraduate classes through lab exercises. 
 
-Courses instructed: 
+Courses instructed:
 
 * ECET 325 - Computer Architecture Performance Analysis: Lab Instructor, developed all laboratory projects and material.
 * ECET 374 - Digital Telecommunications: Lab Instructor, developed all major laboratory projects.
