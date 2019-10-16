@@ -10,18 +10,30 @@ Multi-disciplined systems administrator with experience in design, procurement a
 * Linux System Administration
 * Cloud Hosting Services (Amazon Web Services, Rackspace)
 * Configuration Management (Chef)
-* LAMP/LEMP Stack Services
 * Monitoring (Nagios, Pagerduty, Datadog)
-* Source Code Management
 * Infrastructure Management Tools (Terraform, Packer)
-* Virtualization Tools (Vagrant, VMWare)
-* Scripting (Ruby, Bash)
+* Virtualization Tools (Docker, Vagrant, VMWare)
+* Scripting (Ruby, Bash, Go)
 
 ### EXPERIENCE
 
+##### TempusLabs, Inc., Chicago, Illinois
+
+Lead Infrastructure Engineer – September 2016 to Present
+
+Infrastructure Engineer for a Bioinformatics and Data Analysis company running multiple pipelines.
+
+* Created baseline for all terraform-based infrastructure
+* Managed CI/CD Pipelines from commit to container
+* Developed automated-compliance and auditing application
+* Created software and automation for ad-hoc experiment infrastructure
+* Wrote CLI utilities for interacting with infrastructure
+* Developed APIs for safe developer-friendly data interaction
+* Migrated all workload pipelines to AWS Batch
+
 ##### Raise, Inc., Chicago, Illinois
 
-Operations Engineer – December 2014 to Present
+Operations Engineer – December 2014 to September 2016
 
 Operations Engineer for an Online Retail Giftcards Marketplace managing multiple Ruby applications.
 
