@@ -1,4 +1,4 @@
-### Gregory Michael Palmier
+### Gregory Palmier
 [https://github.com/gregpalmier](https://github.com/gregpalmier)
 
 ##### Systems Administrator
